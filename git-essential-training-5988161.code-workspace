@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/Sri-mms/git-essential-training-5988161"
+		},
+		{
+			"uri": "vscode-vfs://github/Sri-mms"
+		}
+	],
+	"settings": {
+		"explorer.openEditors.visible": 0,
+		"files.autoSave": "afterDelay",
+		"screencastMode.onlyKeyboardShortcuts": true,
+		"terminal.integrated.fontSize": 22,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.statusBar.visible": true
+	}
+}
